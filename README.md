@@ -59,3 +59,10 @@ Integrate YOLOv8 for improved accuracy and real-time performance
 Deploy on edge devices for real-time smart city applications
 
 Cloud integration for large-scale traffic data analytics
+
+
+👍 CODE IMPLEMENTATION AND WORING 
+
+![Traffic System Demo](Screenshot 2025-08-30 114019.png)
+![Traffic System Demo](Screenshot 2025-08-30 114035.png)
+

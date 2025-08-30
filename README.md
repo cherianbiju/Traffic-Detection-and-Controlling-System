@@ -63,6 +63,7 @@ Cloud integration for large-scale traffic data analytics
 
 👍 CODE IMPLEMENTATION AND WORING 
 
-![Traffic System Demo](Screenshot 2025-08-30 114019.png)
-![Traffic System Demo](Screenshot 2025-08-30 114035.png)
+![Traffic Demo 1](Screenshot%202025-08-30%20114019.png)  
+![Traffic Demo 2](Screenshot%202025-08-30%20114035.png)
+
 

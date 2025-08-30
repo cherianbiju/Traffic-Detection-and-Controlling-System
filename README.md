@@ -1,12 +1,13 @@
 🚦 Traffic Detection and Signalling System
 
+<br><br>  
 
 📌 Overview
 
 This project implements an AI-powered traffic detection and automatic signal control system to reduce congestion and improve road safety.
 It uses YOLOv5 object detection to count vehicles in real-time and dynamically adjust traffic light timings based on density.
 
-
+<br><br>  
 
 ✨ Features
 
@@ -20,7 +21,7 @@ Live GUI Interface built with Tkinter to visualize traffic lights and switching
 
 Scalable System that can be adapted to real-world traffic junctions
 
-
+<br><br>  
 
 🛠️ Tech Stack
 
@@ -38,7 +39,7 @@ Libraries & Tools:
 
 IDE: Jupyter Notebook / PyCharm
 
-
+<br><br>  
 
 📂 Project Workflow
 
@@ -50,7 +51,7 @@ Traffic Control Logic → Algorithm assigns green signal to lane with max densit
 
 GUI Visualization → Tkinter-based interface shows real-time signal switching
 
-
+<br><br>  
 
 📷 Demo Flow
 
@@ -60,7 +61,7 @@ GUI Visualization → Tkinter-based interface shows real-time signal switching
 
 🚦 Output: Traffic lights dynamically updated in GUI
 
-
+<br><br>  
 
 📑 Future Enhancements
 
@@ -71,7 +72,7 @@ Deploy on edge devices for real-time smart city applications
 Cloud integration for large-scale traffic data analytics
 
 
-
+<br><br>  
 
 👍 CODE IMPLEMENTATION AND WORING 
 
